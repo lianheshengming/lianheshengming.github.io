@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-![logo](https://github.com/lianheshengming/lianheshengming.github.io/raw/main/chuanlian.jpeg)
+![logo](https://github.com/lianheshengming/lianheshengming.github.io/raw/main/assets/images/chuanlian.jpeg)
 # 联署声明（修正版v0.3）
 
 * 题目：中国公民在俄罗斯入侵乌克兰一周年时的三项声明
@@ -52,7 +52,7 @@ https://group.whitepaperinkorea.com/game?public_key=45674f4135e2dd929279a72e1e73
 
 QR code 二维码:
 
-![logo](https://github.com/lianheshengming/lianheshengming.github.io/raw/main/session/game.png)
+![logo](https://github.com/lianheshengming/lianheshengming.github.io/raw/main/assets/images/game.png)
 
 # 发起者
 
@@ -62,5 +62,5 @@ QR code 二维码:
 
 # 小目标百人联署达成
 
-![联署进展预览](https://github.com/lianheshengming/lianheshengming.github.io/raw/main/shot100.png)
+![联署进展预览](https://github.com/lianheshengming/lianheshengming.github.io/raw/main/assets/images/shot100.png)
 
