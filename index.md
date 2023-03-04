@@ -2,122 +2,65 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+![logo](https://github.com/lianheshengming/lianheshengming.github.io/raw/main/chuanlian.jpeg)
+# 联署声明（修正版v0.3）
 
-There should be whitespace between paragraphs.
+* 题目：中国公民在俄罗斯入侵乌克兰一周年时的三项声明
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+* 内容：  
 
-# Header 1
+1. 俄罗斯入侵乌克兰是邪恶可耻的战争罪行，全球中国公民反对不正当的战争行径；
+2. 乌克兰民众遭受的人道主义危机，全球中国公民深切同情，并愿意持续关注并予以支持;
+3. 中国公民与中国共产党立场不同，中国公民与世界其他国家公民在正义与人性的认同上没有差别，独裁违宪的中国共产党的内政外交均违背了中国公民意愿，全球中国公民反对不民主不自由的中共政府。
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+* 联署形式：  
+自由选择两种联署方式  
+1. 实名联署（如不愿意实名，请选择加密聊天工具的ID）
+例如：习仲勋
+2. 加密聊天工具 session ID （是一个串码，这个可以不受手机号限制且不翻墙联系到本人）
+例如： 05c146bd8cbfbf7b924423a5deb2a0c2875ed0cf686fd06d11afa36595ca51f731
 
-## Header 2
+* session是一款开源高安全性的通信软件，且无需手机号等任何个人信息，基于区块链安全技术，无法追踪破解，请放心安装使用。
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+[简单使用介绍](https://lianheshengming.github.io/session/)
 
-### Header 3
+[session安装网站](https://getsession.org/)
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
+* 联署参与方式：   
+1. 线下参与,全球大串联现场活动现场
+2. 线上网页参与
+
+* 预期效果：
+1. 海外线下将使用ipad/纸张，提供填写手写署名联署渠道
+2. 线上将提供加入联合声明填写表格，例如：我声明：XXX，加入联合声明
+3. 联合声明页面将滚动展示所有签名人，并按地区统计签名人数
+4. 提供在线填写表格的二维码，方便转发
+
+[填写联署地址](https://airtable.com/shrEUTUkbNcZnGGmR)
+
+![QRcode](https://github.com/lianheshengming/lianheshengming.github.io/raw/main/generate1.gif)
+
+[讨论组请加入 https://t.me/atakchina](https://t.me/atakchina)
+
+# session公开群组
+加入链接：
 ```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
+https://group.whitepaperinkorea.com/game?public_key=45674f4135e2dd929279a72e1e73957eed741c7bec00c87b1797ad52c235ea36
 ```
+为了某种程度的逃避审查，我们将群组改名为塔防游戏交流群
 
-#### Header 4
+QR code 二维码:
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+![logo](https://github.com/lianheshengming/lianheshengming.github.io/raw/main/session/game.png)
 
-##### Header 5
+# 发起者
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+我们是一群信仰科学追求民主的青年学生！
 
-###### Header 6
+[联署进展查看](https://airtable.com/shr3tx8N0iCFbojH1/tbl5WVqTPADEONIn6/viwWOtMyjaOdZMczt?blocks=bipcgKPl9DToD8hl8)
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+# 小目标百人联署达成
 
-### There's a horizontal rule below this.
+![联署进展预览](https://github.com/lianheshengming/lianheshengming.github.io/raw/main/shot100.png)
 
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
