@@ -1,8 +1,3 @@
----
-layout: default
----
-
-
 ![logo](https://github.com/lianheshengming/lianheshengming.github.io/raw/master/assets/images/chuanlian.jpeg)
 # 联署声明（修正版v0.3）
 
