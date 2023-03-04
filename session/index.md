@@ -9,8 +9,8 @@
 * 官方的安装包网址：https://getsession.org/download
 * 在桌面端使用session可能门槛更低，因为几乎不需要考虑平台安全策略，只要拿到安装包文件即可
 * 在移动端使用session的话，苹果手机请使用非中国区的账号，安卓手机请使用谷歌商店或者直接用安装包安装（小米华为手机可能需要将安装文件的末尾apk1更改为apk）
-![google play商店](https://github.com/lianheshengming/lianheshengming.github.io/raw/master/session/session_play.jpg)
-![apple app商店非中国区](https://github.com/lianheshengming/lianheshengming.github.io/raw/master/session/session_app.jpg)
+![google play商店](https://github.com/lianheshengming/lianheshengming.github.io/raw/master/assets/images/session_play.jpg)
+![apple app商店非中国区](https://github.com/lianheshengming/lianheshengming.github.io/raw/master/assets/images/session_app.jpg)
 # 什么是session ID?
 session ID 是一列字符形成的串码，该串码作为用户的id可以供别的用户来查询加好友（可以不受手机号限制且不翻墙联系到本人） 例如： 05c146bd8cbfbf7b924423a5deb2a0c2875ed0cf686fd06d11afa36595ca51f731
 # session群组有什么特别？
@@ -21,9 +21,9 @@ session ID 是一列字符形成的串码，该串码作为用户的id可以供�
 
 # 如何加入公开群组？
 1. 点软件对话界面的+标识，然后出现界面里选Join community（加入群体）
-![Step 1](https://github.com/lianheshengming/lianheshengming.github.io/raw/master/session/new_con.jpg)
+![Step 1](https://github.com/lianheshengming/lianheshengming.github.io/raw/master/assets/images/new_con.jpg)
 2. 在输入栏粘贴session群的链接网址或者扫描图片二维码，然后点击join加入即可，稍待片刻就会成功加入公开群组
-![Step 2](https://github.com/lianheshengming/lianheshengming.github.io/raw/master/session/join.jpg)
+![Step 2](https://github.com/lianheshengming/lianheshengming.github.io/raw/master/assets/images/join.jpg)
 
 
 # 我们的公开群组
@@ -33,4 +33,4 @@ session ID 是一列字符形成的串码，该串码作为用户的id可以供�
 https://group.whitepaperinkorea.com/game?public_key=45674f4135e2dd929279a72e1e73957eed741c7bec00c87b1797ad52c235ea36
 
 加入的QR code图片为：  
-![QR code](https://github.com/lianheshengming/lianheshengming.github.io/raw/master/session/game.png)
+![QR code](https://github.com/lianheshengming/lianheshengming.github.io/raw/master/assets/images/game.png)
